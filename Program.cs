@@ -2,9 +2,10 @@
 
 namespace EmployeeWage
 {
-    class Program
+    class EmployeeWageComputation
     {
-        static void Main(string[] args)
+        // Method to compute employee wage
+        public void ComputeEmpWage()
         {
             int IS_PART_TIME = 1;
             int IS_FULL_TIME = 2;
@@ -44,9 +45,19 @@ namespace EmployeeWage
             }
 
             int totalEmpWage = totalEmpHrs * EMP_RATE_PER_HOUR;
+
             Console.WriteLine("Total Working Days: " + totalWorkingDays);
-            Console.WriteLine("Total Hours: " + totalEmpHrs);
+            Console.WriteLine("Total Working Hours: " + totalEmpHrs);
             Console.WriteLine("Total Employee Wage: " + totalEmpWage);
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            EmployeeWageComputation obj = new EmployeeWageComputation();
+            obj.ComputeEmpWage();  // call the method
         }
     }
 }
