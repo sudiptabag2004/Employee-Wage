@@ -1,0 +1,15 @@
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/bin/Debug/net9.0/Employee-Wage
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/bin/Debug/net9.0/Employee-Wage.deps.json
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/bin/Debug/net9.0/Employee-Wage.runtimeconfig.json
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/bin/Debug/net9.0/Employee-Wage.dll
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/bin/Debug/net9.0/Employee-Wage.pdb
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.AssemblyInfoInputs.cache
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.AssemblyInfo.cs
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.csproj.CoreCompileInputs.cache
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.sourcelink.json
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.dll
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/refint/Employee-Wage.dll
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.pdb
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/Employee-Wage.genruntimeconfig.cache
+/Users/sudiptabag/RiderProjects/Employee-Wage/Employee-Wage/obj/Debug/net9.0/ref/Employee-Wage.dll
